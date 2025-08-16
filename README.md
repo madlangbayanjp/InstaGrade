@@ -15,11 +15,12 @@ The goal is to reduce the workload of teachers and simplify the grading of each 
 
 ## 📸 Sample UI
 
-<h2 align="center">Sample UI</h2>
-
-<h2 align="center">Sample UI</h2>
-
-![Screenshot 1](assets/images/1.png)
-![Screenshot 2](assets/images/2.png)
-![Screenshot 3](assets/images/3.png)
+<details>
+  <summary>Click to view Sample UI</summary>
+  <div align="center">
+    <img src="assets/images/1.png" alt="Screenshot 1" width="400">
+    <img src="assets/images/2.png" alt="Screenshot 2" width="400">
+    <img src="assets/images/3.png" alt="Screenshot 3" width="400">
+  </div>
+</details>
 ---
