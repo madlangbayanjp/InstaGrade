@@ -15,8 +15,12 @@ The goal is to reduce the workload of teachers and simplify the grading of each 
 
 ## 📸 Sample UI
 
-<p align="center">
-  <img src="assets/Images.png" width="300"/>
-</p>
+<div align="center" style="background-color:#1DB954; padding:15px; border-radius:12px;">
+  <img src="assets/images/1.png" width="200"/>
+  <img src="assets/images/2.png" width="200"/>
+  <img src="assets/images/3.png" width="200"/>
+  <img src="assets/images/4.png" width="200"/>
+</div>
+
 
 ---
