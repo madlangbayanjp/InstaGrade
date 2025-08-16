@@ -12,15 +12,22 @@ This project helps teachers efficiently grade students' identification answers j
 The goal is to reduce the workload of teachers and simplify the grading of each student's papers.  
 
 ---
+<h2 align="center">Sample UI</h2>
 
-## 📸 Sample UI
-
-<details>
-  <summary>Click to view Sample UI</summary>
-  <div align="center">
-    <img src="assets/images/1.png" alt="Screenshot 1" width="400">
-    <img src="assets/images/2.png" alt="Screenshot 2" width="400">
-    <img src="assets/images/3.png" alt="Screenshot 3" width="400">
-  </div>
-</details>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/images/1.png" alt="Screenshot 1" width="250" height="250">
+    </td>
+    <td align="center">
+      <img src="assets/images/2.png" alt="Screenshot 2" width="250" height="250">
+    </td>
+    <td align="center">
+      <img src="assets/images/3.png" alt="Screenshot 3" width="250" height="250">
+    </td>
+    <td align="center">
+      <img src="assets/images/4.png" alt="Screenshot 4" width="250" height="250">
+    </td>
+  </tr>
+</table>
 ---
