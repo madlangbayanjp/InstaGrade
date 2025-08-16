@@ -14,20 +14,5 @@ The goal is to reduce the workload of teachers and simplify the grading of each 
 ---
 <h2 align="center">Sample UI</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="assets/images/1.png" alt="Screenshot 1" width="500">
-    </td>
-    <td align="center">
-      <img src="assets/images/2.png" alt="Screenshot 2" width="500">
-    </td>
-    <td align="center">
-      <img src="assets/images/3.png" alt="Screenshot 3" width="500">
-    </td>
-    <td align="center">
-      <img src="assets/images/4.png" alt="Screenshot 4" width="500">
-    </td>
-  </tr>
-</table>
+![Screenshot 1](assets/Images.png)
 ---
