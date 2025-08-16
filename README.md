@@ -17,9 +17,9 @@ The goal is to reduce the workload of teachers and simplify the grading of each 
 
 <h2 align="center">Sample UI</h2>
 
-<p align="center">
-  <img src="assets/images/1.png" width="300" />
-  <img src="assets/images/2.png" width="300" />
-  <img src="assets/images/3.png" width="300" />
-</p>
+<h2 align="center">Sample UI</h2>
+
+![Screenshot 1](assets/images/1.png)
+![Screenshot 2](assets/images/2.png)
+![Screenshot 3](assets/images/3.png)
 ---
