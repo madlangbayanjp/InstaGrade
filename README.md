@@ -5,6 +5,28 @@
 
 # InstaGrade: An Automated Grading Scanner Using Text Recognition
 
-InstaGrade is developed using Flutter (Dart) and is a final project for our mobile application course. This project helps teachers efficiently grade students' identification answers just by scanning them into the students' answer sheets. This project aims to reduce the workload of our teachers and simplify the grading of each student's papers. 
+---
 
+InstaGrade is developed using Flutter (Dart) and is a final project for our mobile application course.  
+This project helps teachers efficiently grade students' identification answers just by scanning them into the students' answer sheets.  
+The goal is to reduce the workload of teachers and simplify the grading of each student's papers.  
 
+---
+
+## 📸 Sample UI
+
+<p align="center">
+  <img src="assets/images/1.png" alt="Screenshot 1" width="180"/>
+  <img src="assets/images/2.png" alt="Screenshot 2" width="180"/>
+  <img src="assets/images/3.png" alt="Screenshot 3" width="180"/>
+  <img src="assets/images/4.png" alt="Screenshot 4" width="180"/>
+</p>
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/yourusername/instagrade.git
+   cd instagrade
